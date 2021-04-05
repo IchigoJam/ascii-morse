@@ -1,0 +1,322 @@
+[
+  {
+    "ascii": "!",
+    "morse": "313133",
+    "memo": "Wiki　(NOT in  ITU）"
+  },
+  {
+    "ascii": "\"",
+    "morse": "131131",
+    "memo": ""
+  },
+  {
+    "ascii": "#",
+    "morse": "313111",
+    "memo": "勝手に策定　 （~NB　ナンバー)"
+  },
+  {
+    "ascii": "$",
+    "morse": "1113113",
+    "memo": "Wiki　(NOT in  ITU）"
+  },
+  {
+    "ascii": "%",
+    "morse": "13313",
+    "memo": "勝手に策定 （~PT　パーセント）"
+  },
+  {
+    "ascii": "&",
+    "morse": "13111",
+    "memo": "Wiki　(NOT in  ITU）"
+  },
+  {
+    "ascii": "'",
+    "morse": "13331",
+    "memo": ""
+  },
+  {
+    "ascii": "(",
+    "morse": "31331",
+    "memo": ""
+  },
+  {
+    "ascii": ")",
+    "morse": "313313",
+    "memo": ""
+  },
+  {
+    "ascii": "*",
+    "morse": "3113",
+    "memo": "標準はXと同じなので別途設定する"
+  },
+  {
+    "ascii": "*",
+    "morse": "131113",
+    "memo": "勝手に策定（~AST　アスタリスク）"
+  },
+  {
+    "ascii": "+",
+    "morse": "13131",
+    "memo": ""
+  },
+  {
+    "ascii": ",",
+    "morse": "331131",
+    "memo": ""
+  },
+  {
+    "ascii": "-",
+    "morse": "311113",
+    "memo": ""
+  },
+  {
+    "ascii": ".",
+    "morse": "131313",
+    "memo": ""
+  },
+  {
+    "ascii": "/",
+    "morse": "31131",
+    "memo": ""
+  },
+  {
+    "ascii": "0",
+    "morse": "33333",
+    "memo": ""
+  },
+  {
+    "ascii": "1",
+    "morse": "13333",
+    "memo": ""
+  },
+  {
+    "ascii": "2",
+    "morse": "11333",
+    "memo": ""
+  },
+  {
+    "ascii": "3",
+    "morse": "11133",
+    "memo": ""
+  },
+  {
+    "ascii": "4",
+    "morse": "11113",
+    "memo": ""
+  },
+  {
+    "ascii": "5",
+    "morse": "11111",
+    "memo": ""
+  },
+  {
+    "ascii": "6",
+    "morse": "31111",
+    "memo": ""
+  },
+  {
+    "ascii": "7",
+    "morse": "33111",
+    "memo": ""
+  },
+  {
+    "ascii": "8",
+    "morse": "33311",
+    "memo": ""
+  },
+  {
+    "ascii": "9",
+    "morse": "33331",
+    "memo": ""
+  },
+  {
+    "ascii": ":",
+    "morse": "333111",
+    "memo": ""
+  },
+  {
+    "ascii": ";",
+    "morse": "313131",
+    "memo": "Wiki　(NOT in  ITU）"
+  },
+  {
+    "ascii": "<",
+    "morse": "1311111",
+    "memo": "勝手に策定（~LS　レスザン）"
+  },
+  {
+    "ascii": "=",
+    "morse": "31113",
+    "memo": ""
+  },
+  {
+    "ascii": ">",
+    "morse": "3313131",
+    "memo": "勝手に策定（~GTR　グレーター）"
+  },
+  {
+    "ascii": "?",
+    "morse": "113311",
+    "memo": ""
+  },
+  {
+    "ascii": "@",
+    "morse": "133131",
+    "memo": ""
+  },
+  {
+    "ascii": "A",
+    "morse": "13",
+    "memo": ""
+  },
+  {
+    "ascii": "B",
+    "morse": "3111",
+    "memo": ""
+  },
+  {
+    "ascii": "C",
+    "morse": "3131",
+    "memo": ""
+  },
+  {
+    "ascii": "D",
+    "morse": "311",
+    "memo": ""
+  },
+  {
+    "ascii": "E",
+    "morse": "1",
+    "memo": ""
+  },
+  {
+    "ascii": "F",
+    "morse": "1131",
+    "memo": ""
+  },
+  {
+    "ascii": "G",
+    "morse": "331",
+    "memo": ""
+  },
+  {
+    "ascii": "H",
+    "morse": "1111",
+    "memo": ""
+  },
+  {
+    "ascii": "I",
+    "morse": "11",
+    "memo": ""
+  },
+  {
+    "ascii": "J",
+    "morse": "1333",
+    "memo": ""
+  },
+  {
+    "ascii": "K",
+    "morse": "313",
+    "memo": ""
+  },
+  {
+    "ascii": "L",
+    "morse": "1311",
+    "memo": ""
+  },
+  {
+    "ascii": "M",
+    "morse": "33",
+    "memo": ""
+  },
+  {
+    "ascii": "N",
+    "morse": "31",
+    "memo": ""
+  },
+  {
+    "ascii": "O",
+    "morse": "333",
+    "memo": ""
+  },
+  {
+    "ascii": "P",
+    "morse": "1331",
+    "memo": ""
+  },
+  {
+    "ascii": "Q",
+    "morse": "3313",
+    "memo": ""
+  },
+  {
+    "ascii": "R",
+    "morse": "131",
+    "memo": ""
+  },
+  {
+    "ascii": "S",
+    "morse": "111",
+    "memo": ""
+  },
+  {
+    "ascii": "T",
+    "morse": "3",
+    "memo": ""
+  },
+  {
+    "ascii": "U",
+    "morse": "113",
+    "memo": ""
+  },
+  {
+    "ascii": "V",
+    "morse": "1113",
+    "memo": ""
+  },
+  {
+    "ascii": "W",
+    "morse": "133",
+    "memo": ""
+  },
+  {
+    "ascii": "X",
+    "morse": "3113",
+    "memo": ""
+  },
+  {
+    "ascii": "Y",
+    "morse": "3133",
+    "memo": ""
+  },
+  {
+    "ascii": "Z",
+    "morse": "3311",
+    "memo": ""
+  },
+  {
+    "ascii": "[",
+    "morse": "1113111",
+    "memo": "勝手に策定（~SB スクエア）"
+  },
+  {
+    "ascii": "\\",
+    "morse": "3111111",
+    "memo": ""
+  },
+  {
+    "ascii": "]",
+    "morse": "1113131",
+    "memo": "勝手に策定（~SC　スクエア）"
+  },
+  {
+    "ascii": "^",
+    "morse": "13113",
+    "memo": "勝手に策定（~EX　EXP)"
+  },
+  {
+    "ascii": "_",
+    "morse": "113313",
+    "memo": "Wiki　(NOT in  ITU）"
+  }
+]
